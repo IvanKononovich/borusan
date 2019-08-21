@@ -600,7 +600,7 @@ $(function() {
 
 
     document.addEventListener('click', openList);
-    document.addEventListener('touch', openList);
+    document.addEventListener('touchend', openList);
 
 
 
